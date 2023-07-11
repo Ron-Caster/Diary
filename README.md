@@ -5,4 +5,4 @@
 
 ![image](https://github.com/Ron-Caster/Diary/assets/56224323/70e5d566-d42a-444d-9499-979969d10c4c)
 
-[⏩ Click here for Diary v1.3](https://github.com/Ron-Caster/Diary/releases/tag/Diary_v1.3)
+[⏩ Download Diary v1.3](https://github.com/Ron-Caster/Diary/releases/tag/Diary_v1.3)
